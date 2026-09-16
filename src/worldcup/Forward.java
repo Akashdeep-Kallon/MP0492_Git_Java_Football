@@ -6,7 +6,7 @@ import java.util.Random;
  * Class to define the forward
  */
 public class Forward extends Player {
-	boolean killer;
+	private boolean killer;
 
 	public void drible() {
 		System.out.println("dribbling");
@@ -26,7 +26,7 @@ public class Forward extends Player {
 		this.killer = killer;
 	}
 
-	public void kickBall(Ball ball) {
+	public void kick(Ball ball) {
 		String[] effects = { "with spin", "too high", "off target", "straight to the keeper", "into the top corner",
 				"with great power", "weak shot", "curled beautifully" };
 
