@@ -97,3 +97,16 @@ classDiagram
 10. Resolve conflicts(if apply)
 11. Merge 
 12. Review if issue is closed
+
+# Changes and issue owners
+| Change | Responsible person |
+| --- | --- |
+| Issue 1 | Eric Huang |
+| Issue 2 | Joel del Rio |
+| Issue 3 | Sergi Ye |
+| Issue 4 | Akashdeep Singh |
+| Add missing `Ball` class | Sergi Ye |
+| Add private variable | Eric Huang |
+| Implement private `int size` attribute in `Field` | Akashdeep Singh |
+| Fix error in `kick` method | Sergi Ye |
+| Make `Defender` extend `Player` | Joel del Rio |
