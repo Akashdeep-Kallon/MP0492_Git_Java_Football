@@ -83,13 +83,14 @@ CONFLICTO
 CONFLICTO
     
 ```
+CONFLICTO
 
 # Implementation
-1. Create repository using this CONFLICTO template to group git account
-2. Check Game Class diagram andz current implementation to identify what is pending to do
+1. Create repository using this CONFLICTO CONFLICTO to group git account
+2. Check Game Class diagram andz current CONFLICTO to identify what is pending to do
 3. Assign every issue to a group member
 4. Create a branch for each issue
-5. Clone repository in local environment
+5. Clone repository in local CONFLICTO
 6. Check out to corresponding branch
 7. Code the change described in issue
 8. Push from your local environment to your repository
