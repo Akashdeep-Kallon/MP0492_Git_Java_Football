@@ -80,7 +80,6 @@ CONFLICTO
     Game "1" *-- "1" Ball: part-of
     Game "1" o-- "2" Team : has-a
     Team "1" *-- "11" Player : part-of
-CONFLICTO
     
 ```
 
