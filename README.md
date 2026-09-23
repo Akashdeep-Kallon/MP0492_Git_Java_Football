@@ -101,10 +101,10 @@ CONFLICTO
 # Changes and issue owners
 | Change | Responsible person |
 | --- | --- |
-| Issue 1 | Eric Huang |
-| Issue 2 | Joel del Rio |
-| Issue 3 | Sergi Ye |
-| Issue 4 | Akashdeep Singh |
+| Implement Person | Eric Huang |
+| Implement Player | Joel del Rio |
+| Implement Coach | Sergi Ye |
+| Fix Organise() in Midfielder | Akashdeep Singh |
 | Add missing `Ball` class | Sergi Ye |
 | Add private variable | Eric Huang |
 | Implement private `int size` attribute in `Field` | Akashdeep Singh |
